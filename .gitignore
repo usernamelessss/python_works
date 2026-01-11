@@ -13,3 +13,7 @@
 /media/demo.json
 /.idea/.name
 /test/
+**/__pycache__/
+**/*.json
+.idea/
+5
