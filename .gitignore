@@ -17,4 +17,4 @@
 **/*.json
 .idea/
 5
-sigil_env-master.zip
+**/sigil_env-master.zip
